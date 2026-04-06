@@ -1,0 +1,208 @@
+﻿Projeto YPO
+Próxima reunião: resultados prontos quarta-feira 08/04
+________________
+
+
+1. Definir tasks para teste dos assistentes
+   * Saraiva
+2. Testar Claude Cowork
+   * Carlos Henrique
+   * Guilherme Frazão
+3. Testar Manus
+   * Marcão
+   * Murilo
+4. Testar Lindy
+   * Roberto
+   * Arruda
+5. Procurar novas soluções
+   * Restante do grupo
+A ideia aqui é bem simples, ter definido algumas tarefas que os C-Levels precisam que a IA resolva, e como temos várias ferramentas, testarmos elas para ver como cada uma desempenha e assim com esses resultados. Montar uma proposta para os YPOs de workshop que ensina essas ferramentas para resolver os problemas deles, é para ser algo bem prático mesmo. A final, eles só querem um “funcionário digital” que eles mandam, e o “funcionário resolve
+________________
+
+
+
+
+Tasks
+
+
+🟢 Nível 1: Eficiência Individual e Quick Wins
+Foco: Reduzir o tempo de resposta e tarefas repetitivas de C-Level.
+* Task1.1: Otimização de Resposta de Business Development
+   * Contexto: Receber um e-mail longo ou um deck de apresentação de um parceiro em potencial.
+   * Ação: A IA deve ler o documento, cruzar com a tese de investimento/estratégia da empresa (fornecida via PDF) e gerar 3 opções de resposta: (1) Declinando educadamente, (2) Solicitando mais dados específicos, (3) Aceitando reunião com agenda sugerida.
+   * Dificuldade: Baixa (Foco em tom de voz e filtragem de informação).
+* Task1.2: Curadoria de Networking (LinkedIn Export)
+   * Contexto: Subir uma planilha com export de conexões do LinkedIn.
+   * Ação: Classificar os contatos por setor, identificar "Power Players" (ex: Diretores de empresas S/A) e redigir uma mensagem de re-aproximação personalizada baseada no histórico da empresa do contato.
+   * Dificuldade: Baixa/Média (Organização de dados não estruturados).
+________________
+
+
+🟡 Nível 2: Operações e Escalabilidade (O "Funcionário Digital")
+Foco: Processos que hoje dependem de analistas juniores/plenos.
+* Task2.1: Pipeline de Triagem de M&A ou Fornecedores (Multi-etapas)
+   * Contexto: Receber 5 sites/links de empresas concorrentes ou alvos de aquisição.
+   * Ação: 1. Pesquisar notícias recentes sobre as empresas. 2. Extrair o provável modelo de receita. 3. Gerar uma tabela comparativa SWOT (Forças, Fraquezas, Oportunidades e Ameaças).
+   * Dificuldade: Média (Exige navegação web e síntese estratégica).
+* Task2.2: Assistente de Onboarding de Clientes/Contratos
+   * Contexto: Input de dados brutos do cliente (Nome, CNPJ, Objeto do Contrato, Valor).
+   * Ação: Preencher uma minuta padrão de contrato jurídico, identificar cláusulas de risco baseadas em um guia de diretrizes da empresa e gerar o e-mail de envio para o departamento jurídico.
+   * Dificuldade: Média (Foco em precisão técnica e formatação).
+________________
+
+
+🔴 Nível 3: Orquestração Complexa (Workflow de 3+ níveis)
+Foco: Resolver gargalos operacionais sem aumentar o headcount.
+* Task3.1: Transformação de Relatórios de RI em Deck de Board
+   * Contexto: Subir o PDF de um relatório trimestral (S/A) denso e complexo.
+   * Ação: 1. Extrair os 5 principais KPIs financeiros. 2. Cruzar esses dados com uma análise de sentimento do mercado (buscando notícias do setor no mesmo período). 3. Estruturar o roteiro de uma apresentação de 10 slides, sugerindo o tipo de gráfico para cada slide (ex: "Aqui usar gráfico de barras para mostrar o Ebitda").
+   * Dificuldade: Alta (Exige análise crítica, cruzamento de fontes externas e estruturação visual).
+* Task3.2: Auditoria de Processo e Identificação de Gargalos
+   * Contexto: Colar a descrição de um workflow atual da empresa (ex: "Como vendemos e entregamos nosso software").
+   * Ação: 1. Mapear o fluxo. 2. Identificar onde a IA poderia substituir a interação humana para acelerar o tempo de entrega (Lead Time). 3. Propor a arquitetura de ferramentas (Zapier + IA + CRM) para automatizar esse gargalo.
+   * Dificuldade: Alta (Consultoria estratégica baseada em IA).
+
+
+________________
+
+
+Resultados, Entregáveis e Apresentáveis
+
+
+Nessa tabela abaixo, coloque um link de um google docs - certifiquem de estar com a permissão correta - com as respostas das IAs, associam textos, imagens, prints, áudios, vídeo, apresentações, arquivos, tudo que é possível nesse Docs(se quiser, até o google drive). Mas a ideia é essa tabela servir como um “índice” para referenciar as respostas obtidas das POCs
+
+
+
+
+TASKS
+	Claude Cowork
+	Manus
+	Lindy AI
+	Outros
+	1.1
+	Carlão:
+Frazão:
+	Marcão:
+Murilo:
+	Roberto:
+Arruda:
+	
+
+	1.2
+	Carlão:
+Frazão:
+	Marcão:
+Murilo:
+	Roberto:
+Arruda:
+	
+
+	2.1
+	Carlão:
+Frazão:
+	Marcão:
+Murilo:
+	Roberto:
+Arruda:
+	
+
+	2.2
+	Carlão:
+Frazão:
+	Marcão:
+Murilo:
+	Roberto:
+Arruda:
+	
+
+	3.1
+	Carlão:
+Frazão:
+	Marcão:
+Murilo:
+	Roberto:
+Arruda:
+	
+
+	3.2
+	Carlão:
+Frazão:
+	Marcão:
+Murilo:
+	Roberto:
+Arruda:
+	
+
+	
+
+
+
+________________
+
+
+Feedback humano
+
+
+Nessa tabela quero um feedback de como foi testar essas ferramentas, o que vocês notaram?
+
+
+
+
+Critério de Sucesso
+	Lindy AI
+	Manus
+	Claude Cowork
+	Autonomia: Executou sem intervenção humana? Manteve o objetivo inicial, por exemplo, se for um workflow de 3 etapas, ela executou as 3 etapas ou parou na primeira?
+	Roberto:
+Arruda:
+
+
+	Marcão:
+Murilo:
+	Carlão:
+Frazão:
+	Integração: Conectou com CRM/E-mail/Drive e afins?
+	Roberto:
+Arruda:
+	Marcão:
+Murilo:
+
+
+	Carlão:
+Frazão:
+	Raciocínio: Identificou nuances de estratégia?
+	Roberto:
+Arruda:
+	Marcão:
+Murilo:
+
+
+	Carlão:
+Frazão:
+	Output: O resultado final está pronto para uso(relatório, apresentação .pptx)?
+	Roberto:
+Arruda:
+	Marcão:
+Murilo:
+
+
+	Carlão:
+Frazão:
+	Segurança e Data Privacy: Como essas ferramentas lida com segurança dos dados e privacidade dos usuários? Afinal, os C-level trabalham com informações sensíveis.
+	Roberto:
+Arruda:
+	Marcão:
+Murilo:
+
+
+	Carlão:
+Frazão:
+	Outro: Campo para vocês adicionarem os que acharem interessante e útil.
+	Roberto:
+Arruda:
+	Marcão:
+Murilo:
+
+
+	Carlão:
+Frazão:
